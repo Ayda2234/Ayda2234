@@ -21,11 +21,11 @@
 </a>
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> </p>
 
-<h3 align="lef"> Used Languages</h3>
+<!-- <h3 align="lef"> Used Languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayda2234&show_icons=true&locale=en&layout=compact" alt="ayda2234" /></p>
 
 <h3 align="left">Github stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayda2234&show_icons=true&locale=en" alt="ayda2234" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayda2234&show_icons=true&locale=en" alt="ayda2234" /></p>-->
 
 <h3 align="left">Github streak stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayda2234&" alt="ayda2234" /></p>
