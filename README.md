@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayda2234&label=Profile%20views&color=0e75b6&style=flat" alt="ayda2234" /> </p>
 
 
--  I’m currently learning **Node js ,react js and Data science skills**
+-  I’m currently learning Data science skills
 
 -   I’m interested in tech, astronomy, and inventions ☄️
   
