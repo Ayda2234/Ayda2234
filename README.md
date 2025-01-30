@@ -5,9 +5,8 @@
 
 
 -  I’m currently learning Data science skills
-
 -   I’m interested in tech, astronomy, and inventions ☄️
-  
+-   A bookworm 📚🐛
 - 📫 How to reach me **bouzekriaida04@gmail.com**
 
 <h3 align="center" >Find me on:</h3>
