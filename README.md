@@ -22,7 +22,7 @@
 </div>
 
 <h3 align="left">Github stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayda2234&show_icons=true&locale=en" alt="ayda2234" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayda2234&show_icons=true&locale=en" alt="ayda2234" /></p>
 
 <h3 align="left">Github streak stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayda2234&" alt="ayda2234" /></p>
