@@ -1,20 +1,17 @@
 
-<h1 align="center">Hi 👋, I'm Aida Bouzekri</h1>
+<h1 align="center">Welcome to My GitHub 👋</h1>
 
-<h3 align="center">
-  🎓 PhD Student in Data Science | Exploring Agentic AI
-</h3>
+<h3 align="center">Technology • Creativity • Continuous Learning</h3>
 
 <p align="center">
-  Interested in building intelligent systems that solve real-world data problems.
+  Exploring ideas, building projects, and learning something new every day.
   <br/>
-  Curious mind, lifelong learner, astronomy enthusiast, and book lover 📚✨
+  Curious mind, astronomy enthusiast, and book lover 📚✨
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayda2234&label=Profile%20Views&color=39d353&style=flat" alt="Profile views" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
