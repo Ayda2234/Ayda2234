@@ -9,10 +9,6 @@
   Curious mind, astronomy enthusiast, and book lover 📚✨
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayda2234&label=Profile%20Views&color=39d353&style=flat" alt="Profile views" />
-</p>
-
 ## 👩‍💻 About Me
 
 - 🤖 Exploring **Agentic AI, intelligent agents, and applied machine learning**
@@ -22,8 +18,6 @@
 - 📫 Reach me at **[bouzekriaida04@gmail.com](mailto:bouzekriaida04@gmail.com)**
 
 ---
-
-## 🛠️ Areas I'm Exploring
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -57,8 +51,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source
@@ -77,5 +69,5 @@
 </p>
 
 <p align="center">
-  <i>Always learning. Always building. Always curious. 🚀</i>
+  <i>Always learning. building. curious. </i>
 </p>
