@@ -12,11 +12,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayda2234&label=Profile%20Views&color=39d353&style=flat" alt="Profile views" />
 </p>
----
 
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing a **PhD in Data Science**
 - 🤖 Exploring **Agentic AI, intelligent agents, and applied machine learning**
 - 📊 Interested in data-driven solutions and real-world AI applications
 - ☄️ Fascinated by technology, astronomy, and inventions
